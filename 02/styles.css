@@ -45,10 +45,9 @@ html {
     top: 50%;
     transform-origin: 100%; /* makes the line of the clock start rotating from its right edge */
     transform: rotate(90deg); /* makes the line of the clock point to the top */
-    transition: all 0.5s;
-    transition-timing-function:cubic-bezier(0.2, 2.5, 0.60, 1)
+    /*transition: all 0.5s;
+    transition-timing-function:cubic-bezier(0.2, 2.5, 0.60, 1)*/
 
   }
 
-  .hour-hand{
-  }
+  
